@@ -1,0 +1,67 @@
+[
+    {
+        "Aantal": 5,
+        "Materiaal": "ANTENNE",
+        "Subtype": "VLAKANTENNE"
+    },
+    {
+        "Aantal": 1,
+        "Materiaal": "ANTENNE",
+        "Subtype": "SCHOTELANTENNE"
+    },
+    {
+        "Aantal": 3,
+        "Materiaal": "BEKABELING",
+        "Subtype": "ETHERNET_1M"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "BEKABELING",
+        "Subtype": "ETHERNET_2M"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "BEKABELING",
+        "Subtype": "ETHERNET_5M"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "BEKABELING",
+        "Subtype": "GLAS_1M"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "BEKABELING",
+        "Subtype": "GLAS_2M"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "BEKABELING",
+        "Subtype": "GLAS_5M"
+    },
+    {
+        "Aantal": 12,
+        "Materiaal": "USB_STICK",
+        "Subtype": "KINGSTON64GB"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "USB_STICK",
+        "Subtype": "KINGSTON128GB"
+    },
+    {
+        "Aantal": 1,
+        "Materiaal": "SDR",
+        "Subtype": "ETTUSX440"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "SDR",
+        "Subtype": "ETTUSX300"
+    },
+    {
+        "Aantal": 0,
+        "Materiaal": "SDR",
+        "Subtype": "ETTUSN320"
+    }
+]
