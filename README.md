@@ -21,6 +21,7 @@ Dit project is beschermd onder de volgende licentie:
 ## Installatie
 
 Voor de installatie van ToolManagerOps wordt het gebruik van een geïntegreerde ontwikkelomgeving (IDE) aanbevolen, zoals [VScode](https://code.visualstudio.com/).
+_Zorg dat het pad (path) naar het JSON-bestand (database.json) aangepast wordt naar de juiste locatie!_
 
 ## Bijdragen
 
