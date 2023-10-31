@@ -10,8 +10,8 @@ Het doel van de applicatie ToolManagerOps is om inzicht te verschaffen in de voo
 
 - **Invoerfunctionaliteit**: Hiermee kun je materiaal invoeren.
 - **Uitvoerfunctionaliteit**: Hiermee kun je materiaal uitnemen.
-- **Verwerkingsfunctionaliteit**: Hiermee wordt het materiaal opgesomd of afgetrokken en bijgehouden in een database.
-- **Overzichtfunctionaliteit**: Hiermee kun je informatie opvragen, waarbij per materiaaltype wordt weergegeven hoeveel ervan aanwezig is.
+- **Verwerkingsfunctionaliteit**: Hiermee wordt het materiaal opgesomd of afgetrokken en bijgehouden in een database (JSON-bestand).
+- **Overzichtfunctionaliteit**: Hiermee kun je informatie opvragen, waarbij per materiaaltype en -subtype wordt weergegeven hoeveel ervan aanwezig is.
 
 ## Licentie
 
